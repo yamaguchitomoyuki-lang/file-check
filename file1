@@ -1,137 +1,538 @@
-<section class="tall">
-  <div class="under-layout05">
-    <figure class="l-img"><img src="images/under/socket_01.jpg" alt="" width="920" height="600"></figure>
-    <div class="l-desc">
-      <p class="l-en">Underbite</p>
-      <h2 class="l-ttl">受け口（下顎前突）とは</h2>
-      <p>
-        下の前歯が上の前歯より前に出ている状態を、受け口と言います。<br>「下顎前突」「反対咬合」とも呼ばれます。受け口は遺伝的な影響が強く、ご家族に同様の嚙み合わせの方がいることが特徴です。<br>小児期に早期に受け口を改善することで、顎の正しい成長を促し、正しい嚙み合わせと顔立ちを目指します。
-        </p>
-    </div>
-  </div>
-</section>
+/*----------------------
+contact form 7
+----------------------*/
 
-<section class="tall">
-  <div class="container">
-    <h2 class="u-h2 deco_en" data-en="Factor">受け口の原因</h2>
-    <dl class="dl-style02">
-      <div class="item">
-        <dt>骨格</dt>
-        <dd>
-          上顎や下顎の骨格の位置やサイズに問題がある場合が多く見られます。<br>具体的には、上顎が小さく後方にずれているケースや、逆に下顎が大きく前方に出ているケースが主な原因とされています。上顎が小さい場合、歯が適切に並ぶスペースが不足し、受け口が引き起こされることがあります。<br>一方で、下顎が大きく前に出ている場合には、噛み合わせがずれ、受け口の状態が生じやすくなります。
-        </dd>
-      </div>
-      <div class="item">
-        <dt>歯列</dt>
-        <dd>上の前歯が後方に傾いていることや、下の前歯が前方に傾いていることが挙げられます。<br>このような歯の傾きにより、上下の歯が噛み合わず、受け口の状態が生じやすくなります。</dd>
-      </div>
-      <div class="item">
-        <dt>生活習慣・癖</dt>
-        <dd>
-          受け口の原因には、いくつかの生活習慣が関係している場合があります。<br>例えば、舌で歯を押す癖や、5歳を過ぎても続く指しゃぶり、爪噛みといった習慣が受け口を引き起こす要因になることがあります。<br>また、口呼吸やうつぶせ寝も、歯並びや顎の発達に影響を与え、受け口の原因となりやすいとされています。
-        </dd>
-      </div>
-    </dl>
-  </div>
-</section>
+.contact-form table {
+  border-collapse: collapse;
+  margin: 0 0 50px;
+  width: 100%;
+}
 
-<section class="tall">
-  <div class="container">
-    <h2 class="u-h2 deco_en" data-en="Consequence">受け口の影響</h2>
-    <div class="card-style01 col2">
-      <div class="item">
-        <h3 class="item-ttl">顔立ち、見た目に影響する</h3>
-        <p>小児期に早期に治療をしないまま放置してしまうと、顔面の発育に大きく影響し、特徴的な顔立ちになってしまいます。<br>成人になってから顔立ちを改善するのは難しく、外科的な手術が必要になる場合もあります。</p>
-      </div>
-      <div class="item">
-        <h3 class="item-ttl">噛み合わせの不良</h3>
-        <p>受け口により、上下の歯が正しく噛み合わず、うまく噛めなくなってしまいます。噛む力が一部の歯に集中しやすいため、歯や歯茎に過剰な負担がかかります。<br>これが原因で、歯の破折や歯周病のリスクが高まることがあります。</p>
-      </div>
-      <div class="item">
-        <h3 class="item-ttl">顎関節に影響する</h3>
-        <p>噛み合わせが悪いために顎に負担がかかりやすく、顎関節症のリスクが高まります。<br>これにより、顎の痛みや違和感、口を開閉しづらいといった症状が出ることもあります。</p>
-      </div>
-      <div class="item">
-        <h3 class="item-ttl">発音に支障が出る</h3>
-        <p>受け口の状態では、特定の音が発音しにくくなり、発音が不明瞭になりがちです。<br>とくにサ行やタ行など、一部の音がうまく出せないことがあります。</p>
-      </div>
-    </div>
-  </div>
-</section>
+.contact-form table tr {
+  border-bottom: 1px dashed #ccc;
+}
 
-<section class="tall">
-  <div class="container">
-    <h2 class="u-h2 deco_en" data-en="Merit">治療することで得られる<br class="sp-only">メリット</h2>
-    <div class="card-style01 bg01 col2">
-      <div class="item">
-        <h3 class="item-ttl">顔立ちが整う</h3>
-        <p>受け口を改善することで、顔のバランスが整い、横顔が美しくなります。<br>特徴的な横顔が改善されるため、印象が大きく変わります。</p>
-      </div>
-      <div class="item">
-        <h3 class="item-ttl">噛み合わせが改善する</h3>
-        <p>受け口を治療することで、上下の歯の噛み合わせが正しくなり、全体的にバランスよくかみ合うことができます。<br>また特定の歯に負担が掛かることもなくなります。</p>
-      </div>
-      <div class="item">
-        <h3 class="item-ttl">顎関節の悪影響を防げる</h3>
-        <p>噛み合わせが正常になることで、顎関節にかかる負担が軽減され、顎関節症や痛みのリスクが減少します。</p>
-      </div>
-      <div class="item">
-        <h3 class="item-ttl">発音が改善する</h3>
-        <p>受け口の改善により、特定の音を正しく発音しやすくなります。</p>
-      </div>
-    </div>
-  </div>
-</section>
+.contact-form table th {
+  padding: 20px 40px 20px 0;
+  vertical-align: middle;
+  font-weight: bold;
+  text-align: left;
+  width: 30%;
+}
 
-<section class="tall sec-bg01 bg-deco">
-  <div class="container">
-    <h2 class="u-h2">治療される場合は<br class="sp-only">まずカウンセリングへ</h2>
-    <div class="l-imgR">
-      <figure class="l-img"><img src="images/under/socket_02.jpg" alt="" width="800" height="590"></figure>
-      <div class="l-desc">
-        <p>
-          受け口の治療をお考えの方は、まずは当院にお越しください。<br>初回は丁寧にカウンセリングを行い、歯並びや噛み合わせのお悩みをじっくりと伺います。<br>一人ひとりの状態やご要望に合わせた適切な治療プランをご提案し、安心して治療を進められるようサポートいたします。<br>具体的な治療法については以下のページをご覧ください。
-        </p>
-        <p><a href="[get_url slug=orthodontics]" class="btn-more">矯正治療について</a></p>
-      </div>
-    </div>
-  </div>
-</section>
+.contact-form table td {
+  padding: 20px 0;
+  width: 70%;
+}
 
-<section class="tall">
-  <div class="container">
-    <h2 class="u-h2 deco_en" data-en="Questions and Answers">受け口のQ&amp;A</h2>
-    <dl class="faq-style">
-      <div class="item">
-        <dt><span class="faq-icon">Q</span>受け口は遺伝しますか？</dt>
-        <dd><span class="faq-icon">A</span>歯の大きさ、骨格などは、親から子へと遺伝します。<br>つまり、受け口などの歯並びの乱れもご家族の方の歯並びが影響します。<br>環境要因の影響もありますが、ご両親またはどちらかが受け口である場合には、お子様が受け口気味になっていないか注意しておき、気になったときにはすぐに受診されることをおすすめします。<br>もちろん、そういった兆候のない段階からご相談いただき、経過を観察していくのが理想的です。
-        </dd>
-      </div>
-      <div class="item">
-        <dt><span class="faq-icon">Q</span>子どもの受け口は自然には治らないですか？</dt>
-        <dd>
-          <span class="faq-icon">A</span>他の歯並びの乱れを含め、子供の場合は顎の成長、永久歯への生え替わりによって歯並びが自然に治るということもあります。<br>その場合も定期的に歯科医院を受診し、経過観察を行うことをお勧めいたします。<br>治療を受けていただくタイミングを逃してしまう可能性があります。
-        </dd>
-      </div>
-      <div class="item">
-        <dt><span class="faq-icon">Q</span>子どもの受け口の治療はいつ始めればいいですか？</dt>
-        <dd>
-          <span class="faq-icon">A</span>小児矯正は、一般的に6～7歳頃から開始します。<br>受け口は、顎の成長が終わりに近づくほど、治療が難しくなるため、早期に対応することが重要となります。<br>症状に気づかれた時点で、一度ご相談ください。
-        </dd>
-      </div>
-      <div class="item">
-        <dt><span class="faq-icon">Q</span>受け口の治療には抜歯が必要ですか？</dt>
-        <dd><span class="faq-icon">A</span>受け口を治療する際、歯が並ぶ場所が不足していると抜歯を検討する場合があります。<br>抜歯が必要かどうかは検査の結果に左右されるため、レントゲンや口腔内の状態をしっかり確認したうえでお伝えします。<br>抜歯が不要なケースもありますので、まずは当院で専門的な診察を受けることをご検討ください。
-        </dd>
-      </div>
-    </dl>
-  </div>
-</section>
+.contact-form .hissu {
+  display: inline-block;
+  background: #E35C5C;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 10px;
+  padding: 1px 8px;
+  margin-left: 15px;
+  vertical-align: 1px;
+}
 
-<section class="tall">
-  <div class="container">
-    <h2 class="u-h2 deco_en" data-en="Case">受け口の症例紹介</h2>
-    [show_case tax_name=cat-socket]
-    <p class="tac"><a href="[get_url type=tax term_name=cat-socket tax_name=case_cat]" class="btn-more">受け口の症例</a></p>
-  </div>
-</section>
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form input[type="tel"],
+.contact-form input[type="number"],
+.contact-form input[type="date"],
+.contact-form select,
+.contact-form textarea {
+  -webkit-appearance: none;
+  appearance: none;
+  background: #f5f5f5;
+  border: none;
+  border-radius: 2px;
+  color: #333;
+  font-size: 16px;
+  padding: 10px;
+  margin: 0;
+  width: 100%;
+  min-height: 50px;
+}
+
+.contact-form input[type="text"]:focus,
+.contact-form input[type="email"]:focus,
+.contact-form input[type="tel"]:focus,
+.contact-form input[type="number"]:focus,
+.contact-form input[type="file"]:focus,
+.contact-form textarea:focus,
+.contact-form select:focus {
+  outline: 1px solid #419caf;
+}
+
+/*radio*/
+.wpcf7-radio .wpcf7-list-item {
+  display: inline-block;
+  margin: 0 20px 0 0;
+}
+
+.wpcf7-radio label {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+
+.wpcf7-radio input[type=radio] {
+  flex: 0 0 18px;
+  display: inline-block;
+  background-color: #eeeff2;
+  border: 1px solid #d6d9e0;
+  width: 18px;
+  height: 18px;
+  border-radius: 50px;
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 6px 10px 0 0;
+}
+
+.wpcf7-radio input[type=radio]:checked+span::before {
+  content: "";
+  display: block;
+  width: 8px;
+  height: 8px;
+  background: #333;
+  border-radius: 50%;
+  position: absolute;
+  top: 11px;
+  left: 5px;
+  z-index: 0;
+}
+
+.contact-form input[type=radio]:focus-visible {
+  border-color: #419caf;
+  outline: none;
+}
+
+/*checkbox*/
+.wpcf7-checkbox .wpcf7-list-item {
+  display: inline-block;
+  margin: 0 20px 0 0;
+}
+
+.wpcf7-checkbox label {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+
+.wpcf7-checkbox input[type=checkbox] {
+  flex: 0 0 18px;
+  display: inline-block;
+  background-color: #eeeff2;
+  border: 1px solid #d6d9e0;
+  width: 18px;
+  height: 18px;
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 6px 10px 0 0;
+}
+
+.wpcf7-checkbox input[type=checkbox]:checked+span::before {
+  content: "";
+  display: block;
+  border: solid #333;
+  border-width: 0 2px 2px 0;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+  top: 9px;
+  left: 6px;
+  transform: rotate(45deg);
+  z-index: 0;
+}
+
+.contact-form input[type=checkbox]:focus-visible {
+  border-color: #419caf;
+  outline: none;
+}
+
+.contact-form textarea {
+  height: 200px;
+  resize: vertical;
+}
+
+/*select*/
+.contact-form select::-ms-expand {
+  display: none;
+}
+
+.contact-form .select-wrap {
+  position: relative;
+}
+
+.contact-form .select-wrap::after {
+  content: "";
+  border-style: solid;
+  border-width: 8px 5px 0 5px;
+  border-color: #333 transparent transparent transparent;
+  pointer-events: none;
+  position: absolute;
+  right: 15px;
+  top: 22px;
+}
+
+/*file*/
+.file-label {
+  background-color: #f5f5f5;
+  cursor: pointer;
+  color: #333;
+  font-size: 13px;
+  padding: 10px 40px;
+  transition: .5s;
+}
+
+.file-label:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.file-label input[type="file"] {
+  display: none;
+}
+
+.file-message {
+  margin-top: 5px;
+  font-size: 13px;
+}
+
+.date-picker input[type="text"] {
+  background-image: url('data:image/svg+xml;base64,PCEtLT94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPy0tPgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTguMS4xLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+Cgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9Il94MzJfIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHN0eWxlPSJ3aWR0aDogMjU2cHg7IGhlaWdodDogMjU2cHg7IG9wYWNpdHk6IDE7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojODg4O30KPC9zdHlsZT4KPGc+Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTQ5LjE5MywxMDMuNTI1YzE1Ljk5NSwwLDI4Ljk2NC0xMi45NywyOC45NjQtMjguOTczVjI4Ljk2NEMxNzguMTU3LDEyLjk3LDE2NS4xODgsMCwxNDkuMTkzLDAKCQljLTE2LjAwMiwwLTI4Ljk3MywxMi45Ny0yOC45NzMsMjguOTY0djQ1LjU4OEMxMjAuMjIsOTAuNTU2LDEzMy4xOTEsMTAzLjUyNSwxNDkuMTkzLDEwMy41MjV6Ij48L3BhdGg+Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzYyLjgxNiwxMDMuNTI1YzE1Ljk5NCwwLDI4Ljk2NC0xMi45NywyOC45NjQtMjguOTczVjI4Ljk2NEMzOTEuNzgsMTIuOTcsMzc4LjgxLDAsMzYyLjgxNiwwCgkJYy0xNi4wMDMsMC0yOC45NzMsMTIuOTctMjguOTczLDI4Ljk2NHY0NS41ODhDMzMzLjg0Myw5MC41NTYsMzQ2LjgxMywxMDMuNTI1LDM2Mi44MTYsMTAzLjUyNXoiPjwvcGF0aD4KCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00MzUuMTY0LDQxLjI4N2gtMTcuOTI1djMzLjI2NWMwLDMwLjAxNy0yNC40MTQsNTQuNDMyLTU0LjQyMiw1NC40MzJjLTMwLjAxOCwwLTU0LjQzMi0yNC40MTUtNTQuNDMyLTU0LjQzMgoJCVY0MS4yODdIMjAzLjYxNnYzMy4yNjVjMCwzMC4wMTctMjQuNDE1LDU0LjQzMi01NC40MjMsNTQuNDMyYy0zMC4wMTYsMC01NC40MzItMjQuNDE1LTU0LjQzMi01NC40MzJWNDEuMjg3SDc2LjgzNgoJCWMtMzguNTI4LDAtNjkuNzYzLDMxLjIzNS02OS43NjMsNjkuNzYzdjMzMS4xODdDNy4wNzMsNDgwLjc2NSwzOC4zMDksNTEyLDc2LjgzNiw1MTJoMzU4LjMyOAoJCWMzOC41MjgsMCw2OS43NjMtMzEuMjM1LDY5Ljc2My02OS43NjNWMTExLjA1QzUwNC45MjcsNzIuNTIyLDQ3My42OTIsNDEuMjg3LDQzNS4xNjQsNDEuMjg3eiBNNDcwLjk4Miw0NDIuMjM3CgkJYzAsMTkuNzQ4LTE2LjA2OSwzNS44MTgtMzUuODE4LDM1LjgxOEg3Ni44MzZjLTE5Ljc0OCwwLTM1LjgxOC0xNi4wNy0zNS44MTgtMzUuODE4VjE1NS4xMzhoNDI5Ljk2NFY0NDIuMjM3eiI+PC9wYXRoPgoJPHJlY3QgeD0iMTc1Ljg2MiIgeT0iMzg0LjAwMiIgY2xhc3M9InN0MCIgd2lkdGg9IjYyLjg1OSIgaGVpZ2h0PSI2Mi44NTkiPjwvcmVjdD4KCTxyZWN0IHg9IjE3NS44NjIiIHk9IjI4Ni41ODQiIGNsYXNzPSJzdDAiIHdpZHRoPSI2Mi44NTkiIGhlaWdodD0iNjIuODU5Ij48L3JlY3Q+Cgk8cmVjdCB4PSI3OC40NTMiIHk9IjM4NC4wMDIiIGNsYXNzPSJzdDAiIHdpZHRoPSI2Mi44NTEiIGhlaWdodD0iNjIuODU5Ij48L3JlY3Q+Cgk8cmVjdCB4PSI3OC40NTMiIHk9IjI4Ni41ODQiIGNsYXNzPSJzdDAiIHdpZHRoPSI2Mi44NTEiIGhlaWdodD0iNjIuODU5Ij48L3JlY3Q+Cgk8cmVjdCB4PSIzNzAuNjk3IiB5PSIxODkuMTc1IiBjbGFzcz0ic3QwIiB3aWR0aD0iNjIuODUxIiBoZWlnaHQ9IjYyLjg1MSI+PC9yZWN0PgoJPHJlY3QgeD0iMjczLjI4IiB5PSIxODkuMTc1IiBjbGFzcz0ic3QwIiB3aWR0aD0iNjIuODU5IiBoZWlnaHQ9IjYyLjg1MSI+PC9yZWN0PgoJPHJlY3QgeD0iMjczLjI4IiB5PSIyODYuNTg0IiBjbGFzcz0ic3QwIiB3aWR0aD0iNjIuODU5IiBoZWlnaHQ9IjYyLjg1OSI+PC9yZWN0PgoJPHJlY3QgeD0iMzcwLjY5NyIgeT0iMzg0LjAwMiIgY2xhc3M9InN0MCIgd2lkdGg9IjYyLjg1MSIgaGVpZ2h0PSI2Mi44NTkiPjwvcmVjdD4KCTxyZWN0IHg9IjM3MC42OTciIHk9IjI4Ni41ODQiIGNsYXNzPSJzdDAiIHdpZHRoPSI2Mi44NTEiIGhlaWdodD0iNjIuODU5Ij48L3JlY3Q+Cgk8cmVjdCB4PSIyNzMuMjgiIHk9IjM4NC4wMDIiIGNsYXNzPSJzdDAiIHdpZHRoPSI2Mi44NTkiIGhlaWdodD0iNjIuODU5Ij48L3JlY3Q+Cgk8cmVjdCB4PSIxNzUuODYyIiB5PSIxODkuMTc1IiBjbGFzcz0ic3QwIiB3aWR0aD0iNjIuODU5IiBoZWlnaHQ9IjYyLjg1MSI+PC9yZWN0PgoJPHJlY3QgeD0iNzguNDUzIiB5PSIxODkuMTc1IiBjbGFzcz0ic3QwIiB3aWR0aD0iNjIuODUxIiBoZWlnaHQ9IjYyLjg1MSI+PC9yZWN0Pgo8L2c+Cjwvc3ZnPgo=');
+  background-repeat: no-repeat;
+  background-position: left 15px center;
+  background-size: 20px auto;
+  padding-left: 50px;
+}
+
+/*希望日*/
+.contact-form .reserve-date {
+  display: flex;
+}
+
+.contact-form .reserve-date .date {
+  width: 35%;
+  margin-right: 15px;
+}
+
+.contact-form .reserve-date .time {
+  display: flex;
+}
+
+.contact-form .reserve-date .select-wrap {
+  width: 100px;
+}
+
+.contact-form .reserve-date .unit {
+  margin: 10px 10px 0;
+}
+
+/*生年月日*/
+.contact-form .birth {
+  display: flex;
+}
+
+.contact-form .birth .item {
+  display: flex;
+}
+
+.contact-form .birth .select-wrap {
+  width: 100px;
+}
+
+.contact-form .birth .unit {
+  margin: 10px 10px 0;
+}
+
+/*送信ボタン*/
+.contact-form .submit-btn,
+.contact-form .wpcf7cp-btns {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-form .submit-btn [type="submit"] {
+  -webkit-appearance: none;
+  background: #419caf;
+  border: 1px solid #419caf;
+  border-radius: 0;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 22px 40px;
+  letter-spacing: 3px;
+  transition: 0.3s;
+  width: 250px;
+}
+
+.contact-form .submit-btn [type="submit"]:hover {
+  opacity: 0.7;
+}
+
+.contact-form .submit-btn [type="submit"].back-btn {
+  background: #999;
+  border: none;
+  margin-right: 50px;
+}
+
+.wpcf7 form.invalid .wpcf7-response-output,
+.wpcf7 form.unaccepted .wpcf7-response-output,
+.wpcf7 form.payment-required .wpcf7-response-output {
+  background-color: #E35C5C;
+  border: none;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  margin: 30px 0 0;
+}
+
+.contact-form .wpcf7-not-valid-tip {
+  color: #e35c5c;
+  font-size: 11px;
+  font-weight: bold;
+  margin: 5px 0 0 0;
+}
+
+div.wpcf7-response-output.wpcf7-validation-errors {
+  display: none !important;
+}
+
+.contact-form .wpcf7-spinner {
+  display: none;
+}
+
+/*Material datepicker*/
+.dtp>.dtp-content {
+  font-weight: bold;
+}
+
+.dtp>.dtp-content>.dtp-date-view>header.dtp-header {
+  background: rgb(55, 60, 63) !important;
+}
+
+.dtp div.dtp-date,
+.dtp div.dtp-time {
+  background-color: #eff0f0 !important;
+  color: #333 !important;
+}
+
+.dtp .p10>a,
+.dtp div.dtp-actual-year,
+.dtp table.dtp-picker-days tr>th {
+  color: #333 !important;
+}
+
+.dtp div.dtp-picker-month {
+  font-weight: bold;
+  padding-bottom: 0 !important;
+}
+
+.dtp table.dtp-picker-days tr>td>a.selected {
+  background-color: #96cee1 !important;
+  border-radius: 3px !important;
+}
+
+.dtp .right,
+.dtp .left {
+  margin-top: 10px !important;
+}
+
+/*送信中*/
+.loading-wrapper {
+  display: none;
+  background-color: rgba(0, 0, 0, 0.25);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 300vw;
+  height: 300vh;
+}
+
+.loading-send {
+  background: #fff;
+  padding: 35px 70px;
+  box-shadow: 0 0.4rem 0.8rem -0.1rem rgb(0 32 128 / 10%), 0 0 0 1px #f0f2f7;
+  border-radius: 5px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  z-index: 1000;
+}
+
+.loading-send-dot,
+.loading-send-dot::before,
+.loading-send-dot::after {
+  content: '';
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background-color: #9FACE6;
+  position: absolute;
+  top: 0;
+  -webkit-animation: dot-flashing 1s infinite alternate;
+  animation: dot-flashing 1s infinite alternate;
+}
+
+.loading-send-dot {
+  margin-top: 5px;
+  position: relative;
+  -webkit-animation-delay: .5s;
+  animation-delay: .5s;
+}
+
+.loading-send-dot::before {
+  left: -15px;
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+}
+
+.loading-send-dot::after {
+  left: 15px;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+@-webkit-keyframes dot-flashing {
+  0% {
+    background-color: #9FACE6;
+  }
+
+  50%,
+  100% {
+    background-color: #ccc;
+  }
+}
+
+@keyframes dot-flashing {
+  0% {
+    background-color: #9FACE6;
+  }
+
+  50%,
+  100% {
+    background-color: #ccc;
+  }
+}
+
+/*メールアドレスチェック*/
+.mail-check {
+  background-color: #f5f5f5;
+  padding: 35px;
+  margin-bottom: 50px;
+}
+
+.mail-check-txt {
+  border-bottom: 1px solid #333;
+  font-size: 15px;
+  font-weight: bold;
+  width: fit-content;
+  margin: 0 auto 5px;
+}
+
+#mailoutput {
+  font-size: 22px;
+  word-break: break-all;
+  text-align: center;
+  margin-top: 0;
+}
+
+@media (max-width: 800px) {
+
+  .contact-form {
+    border: none;
+    padding: 0;
+  }
+
+  .contact-form table {
+    margin: 0 0 30px;
+  }
+
+  .contact-form table tr {
+    border-bottom: 1px dashed #ccc;
+  }
+
+  .contact-form table th,
+  .contact-form table td {
+    display: block;
+    width: 100%;
+  }
+
+  .contact-form table th {
+    padding: 15px 0 10px;
+  }
+
+  .contact-form table td {
+    padding: 0 0 15px;
+  }
+
+  .contact-form .reserve-date {
+    display: block;
+  }
+
+  .contact-form .reserve-date .date {
+    width: 100%;
+    margin: 0 0 10px;
+  }
+
+  .contact-form .birth {
+    flex-wrap: wrap;
+  }
+
+  .contact-form .birth .item+.item {
+    margin-top: 15px;
+  }
+
+  .contact-form .submit-btn [type="submit"] {
+    padding: 15px;
+    width: 250px;
+  }
+
+  .contact-form .submit-btn [type="submit"].back-btn {
+    margin-right: 25px;
+  }
+
+  .grecaptcha-badge {
+    bottom: 70px !important;
+  }
+
+  .mail-check {
+    padding: 15px;
+    margin-bottom: 30px;
+  }
+
+  #mailoutput {
+    font-size: 18px;
+  }
+
+}
+
+.contact-form fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
